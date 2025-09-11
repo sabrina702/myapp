@@ -10,4 +10,5 @@ class AppColors {
   );
   static const Color primary = Colors.purple;
   static const Color white = Colors.white10;
+  static const Color black = Colors.black;
 }
