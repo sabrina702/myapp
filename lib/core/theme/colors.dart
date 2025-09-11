@@ -9,6 +9,6 @@ class AppColors {
     255,
   );
   static const Color primary = Colors.purple;
-  static const Color white = Colors.white10;
+  static const Color white = Colors.white;
   static const Color black = Colors.black;
 }
