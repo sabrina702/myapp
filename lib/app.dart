@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'App Teste Flutter',
       theme:ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
       ),
       home: HomePage(),
     );
